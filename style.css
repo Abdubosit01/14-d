@@ -1,0 +1,128 @@
+
+h1{
+border: 2px solid rgb(255, 255, 255);
+width: 500px;
+margin: auto;
+text-align: center;
+padding: 50px;
+font-size: 88px;
+}
+
+
+.man div{
+width: 393px;
+height: 396px;
+text-align: center;
+
+}
+
+
+
+
+
+.man{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+gap: 40px;
+}
+
+
+
+header{
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+height: 70px;
+}
+
+
+a{
+    color: #ffff;
+    text-decoration: none;
+}
+
+
+nav{
+display: flex;
+    gap: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
